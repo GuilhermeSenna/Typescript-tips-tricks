@@ -1,0 +1,12 @@
+{
+  "name": "Typescript-tips-tricks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GuilhermeSenna/Typescript-tips-tricks.git",
+  "author": "zBiggui <bigguisenna@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.6.3",
+    "typescript": "^4.7.4"
+  }
+}
