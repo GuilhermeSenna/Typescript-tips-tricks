@@ -23,4 +23,4 @@ const obj = {
 
 const value = getDeepValue(obj, "foo", "a");
 
-typeof value === 'number';
+console.log(typeof value === 'number');
